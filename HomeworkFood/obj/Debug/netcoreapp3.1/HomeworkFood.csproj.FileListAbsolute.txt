@@ -1,0 +1,13 @@
+C:\Shag\Programming\HomeworkFood\HomeworkFood\bin\Debug\netcoreapp3.1\HomeworkFood.exe
+C:\Shag\Programming\HomeworkFood\HomeworkFood\bin\Debug\netcoreapp3.1\HomeworkFood.deps.json
+C:\Shag\Programming\HomeworkFood\HomeworkFood\bin\Debug\netcoreapp3.1\HomeworkFood.runtimeconfig.json
+C:\Shag\Programming\HomeworkFood\HomeworkFood\bin\Debug\netcoreapp3.1\HomeworkFood.runtimeconfig.dev.json
+C:\Shag\Programming\HomeworkFood\HomeworkFood\bin\Debug\netcoreapp3.1\HomeworkFood.dll
+C:\Shag\Programming\HomeworkFood\HomeworkFood\bin\Debug\netcoreapp3.1\HomeworkFood.pdb
+C:\Shag\Programming\HomeworkFood\HomeworkFood\obj\Debug\netcoreapp3.1\HomeworkFood.csprojAssemblyReference.cache
+C:\Shag\Programming\HomeworkFood\HomeworkFood\obj\Debug\netcoreapp3.1\HomeworkFood.csproj.CoreCompileInputs.cache
+C:\Shag\Programming\HomeworkFood\HomeworkFood\obj\Debug\netcoreapp3.1\HomeworkFood.AssemblyInfoInputs.cache
+C:\Shag\Programming\HomeworkFood\HomeworkFood\obj\Debug\netcoreapp3.1\HomeworkFood.AssemblyInfo.cs
+C:\Shag\Programming\HomeworkFood\HomeworkFood\obj\Debug\netcoreapp3.1\HomeworkFood.dll
+C:\Shag\Programming\HomeworkFood\HomeworkFood\obj\Debug\netcoreapp3.1\HomeworkFood.pdb
+C:\Shag\Programming\HomeworkFood\HomeworkFood\obj\Debug\netcoreapp3.1\HomeworkFood.genruntimeconfig.cache
